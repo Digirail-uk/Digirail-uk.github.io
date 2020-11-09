@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About DigiRail on DigiRail | Helping to digitally modernise the railways</title>
-    <link>https://Digirail-uk.github.io/about/</link>
+    <link>http://digirail.uk/about/</link>
     <description>Recent content in About DigiRail on DigiRail | Helping to digitally modernise the railways</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 [Dynamic Visual Technologies](https://dvtsoftware.com) All Rights Reserved</copyright>
     
-	<atom:link href="https://Digirail-uk.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://digirail.uk/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
