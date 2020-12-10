@@ -12,20 +12,29 @@
     
     
     <item>
-      <title>Tim Robinson</title>
-      <link>https://digirail.uk/author/john-doe/</link>
+      <title>Jason Bramsden</title>
+      <link>https://digirail.uk/author/jason-bramsden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://digirail.uk/author/john-doe/</guid>
+      <guid>https://digirail.uk/author/jason-bramsden/</guid>
+      <description>Chairman of DigiRail</description>
+    </item>
+    
+    <item>
+      <title>Tim Robinson</title>
+      <link>https://digirail.uk/author/tim-robinson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://digirail.uk/author/tim-robinson/</guid>
       <description>Chairman of DigiRail</description>
     </item>
     
     <item>
       <title>Tom Clare</title>
-      <link>https://digirail.uk/author/mark-dinn/</link>
+      <link>https://digirail.uk/author/tim-clare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://digirail.uk/author/mark-dinn/</guid>
+      <guid>https://digirail.uk/author/tim-clare/</guid>
       <description>Enabling rail organisations to harness the power of digital services and solutions.</description>
     </item>
     
